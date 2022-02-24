@@ -3,7 +3,7 @@
 <div align="center"><a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseomyeong%2Fhit-counter&count_bg=%23F2D2D3&title_bg=%23929292&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true"/></a></div>
 <p align="center">Ordinary developer. 🙂</p>
 <br>
-<div align="center">🛠️ Skills
+<div align="center">🛠️ <b>Skills</b>
   
   
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/> 
@@ -14,7 +14,7 @@
 </div>
 
 
-<div align="center">✨ Contacts
+<div align="center">✨ <b>Contacts</b>
 
 
 <a href="https://www.instagram.com/withmyeong/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a> <a href="dltjaud8920@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
@@ -22,15 +22,14 @@
 
 
 -----------
-❤️ Status
+❤️ <b>Status</b>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seomyeong&layout=compact&title_color=f2d2d3&border_radius=0)](https://github.com/seomyeong/)
-![SeoMyeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=seomyeong&show_icons=true&title_color=f2d2d3&icon_color=f2d2d3&border_radius=0)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seomyeong&layout=compact&title_color=f2d2d3&border_radius=0)](https://github.com/seomyeong/)![SeoMyeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=seomyeong&show_icons=true&title_color=f2d2d3&icon_color=f2d2d3&border_radius=0)
 
 
 
-🔧 Repo
+🔧 <b>Repo</b>
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=seomyeong&repo=honey&title_color=f2d2d3&border_radius=0)](https://github.com/seomyeong/honey)
@@ -39,7 +38,8 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=seomyeong&repo=MBTI&title_color=f2d2d3&border_radius=0)](https://github.com/seomyeong/MBTI)
 
 
-👩‍🏭 Career
+
+👩‍🏭 <b>Career</b>
 | Type      | Date              | Contents                                  | Organization     |
 |-----------|-------------------|-------------------------------------------|------------------|
 | Education | 2021.07 - 2022.01 | 풀스택(프론트엔드&백엔드) 개발자 양성과정 | 코리아IT아카데미 |
