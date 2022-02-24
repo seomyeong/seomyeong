@@ -37,3 +37,9 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=seomyeong&repo=signbank&title_color=f2d2d3&border_radius=0)](https://github.com/seomyeong/signbank)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=seomyeong&repo=signcafe&title_color=f2d2d3&border_radius=0)](https://github.com/seomyeong/signcafe)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=seomyeong&repo=MBTI&title_color=f2d2d3&border_radius=0)](https://github.com/seomyeong/MBTI)
+
+
+👩‍🏭 Career
+| Type      | Date              | Contents                                  | Organization     |
+|-----------|-------------------|-------------------------------------------|------------------|
+| Education | 2021.07 - 2022.01 | 풀스택(프론트엔드&백엔드) 개발자 양성과정 | 코리아IT아카데미 |
